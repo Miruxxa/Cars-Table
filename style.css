@@ -1,0 +1,32 @@
+
+table, th, td{
+  border-collapse: collapse;
+  border: 1px solid #a94a1b;
+  text-align:center;
+} 
+td {
+  background: #eae8e8;
+  font-size: 110%;
+  color: #785a25;
+  
+}
+table{
+  width: 100%;
+}
+.header{
+  color: #a94a1b;
+  background: #f8f8f8;
+  font-size: 250%;
+}
+.models{
+  background: #eae8e8;
+  font-size: 180%;
+  color: #2e390a;
+}
+.category{
+  background: #d99a7b;
+  font-size: 200%;
+  color: #785a25;
+}
+
+
